@@ -1,6 +1,6 @@
 {
   "name": "react-scripts-electron-target",
-  "version": "0.10.0",
+  "version": "0.10.1",
   "description": "Configuration and scripts for Create React App.",
   "repository": "trevordmiller/create-react-app-electron",
   "license": "BSD-3-Clause",
